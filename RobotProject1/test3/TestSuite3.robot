@@ -26,7 +26,10 @@ MyThirdTest
     Log    I am inside 3nd test    
 
 MyFourthTest
-    Log    I am inside 4th test  
+    Log    I am inside 4th test
+    
+MyFifthTest
+    Log    I am inside 5th test      
 
 
     Log               Test completed
